@@ -4,7 +4,7 @@ Hello! BotArmy team here! We're so glad that you decided to join us on this jour
 
 # **Installation Steps**
 
- 1) Go invite the bot: https://discord.com/oauth2/authorize?client_id=749129367778623598&scope=bot&permissions=0
+ 1) Go invite the bot: http://bit.ly/invite-botarmy
  2) type .help to check if it's working
  3) Strike up a conversation with it!
 
