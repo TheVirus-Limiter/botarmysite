@@ -1,4 +1,7 @@
 ******LICENSE:******
+
+
+
 THIS LICENSE AGREEMENT (this “Agreement”) is made and entered into effective as of the day of August 29, 2020 (the “Effective Date”), by and
 between HIRST ARTS FANTASY ARCHITECTURE and BRUCE HIRST (the
 “Licensors”), and BotArmy Development Team, Aspire Pvt Ltd, (the “License”).
