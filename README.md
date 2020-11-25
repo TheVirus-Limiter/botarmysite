@@ -19,8 +19,7 @@ Hello! BotArmy team here! We're so glad that you decided to join us on this jour
 
  1) Join our discord: https://discord.gg/NqrVRJN
  2) Support us on Patreon: https://www.patreon.com/bot_army
- 3) Check out our website: https://bit.ly/botarmysite
-
+ 3) Check out our website: http://botarmy.ml
 
 # **Commands**
 
