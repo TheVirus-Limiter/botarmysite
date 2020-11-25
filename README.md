@@ -1,6 +1,7 @@
 # What is BotArmy?
 
-BotArmy is an AI bot with features such as: chatbot, math, image search and tictactoe! Type .help for more info! It is a discord bot and on version 3.9.
+BotArmy is an AI bot with features such as: chatbot, math, image search and tictactoe! Type .help for more info! It is a discord bot and on version 4.0.
+Recently the bot hit 50+ servers! We will also initiate a live event soon!
 
 
 
