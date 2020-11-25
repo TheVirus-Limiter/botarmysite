@@ -24,33 +24,7 @@ Hello! BotArmy team here! We're so glad that you decided to join us on this jour
 
 # **Commands**
 
-You can type .help or commands.help and you will get them, but here they are anyways:
-**help**
-.help
-
-**invite link**
-.invite
-
-**server**
-.server
-
-**math help**
-math.help
-
-**GitHub repo**
-.github
-
-**commands**
-commands.help
-
-**image search help**
-image.help
-
-**patreon link**
-.patreon
-
-**disclaimer**
-.disclaimer
+Type commands.help for the list of commands.
 
 
 **That's it! You're pretty much done! If you face any problems then join our discord!**
