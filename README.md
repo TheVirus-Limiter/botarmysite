@@ -11,19 +11,20 @@ Hello! BotArmy team here! We're so glad that you decided to join us on this jour
 
 # **Installation Steps**
 
- 1) Go invite the bot: http://bit.ly/invite-botarmy 
+ 1) Go invite the bot: http://invite.botarmy.rocks
  2) type .help to check if it's working
- 3) Strike up a conversation with it!
+ 3) Strike a conversation with it (@BotArmy {query})!
 
 #  **Other Important Things**
 
- 1) Join our discord: https://discord.gg/NqrVRJN
- 2) Support us on Patreon: https://www.patreon.com/bot_army
- 3) Check out our website: http://botarmy.ml
+ 1) Join our discord: http://discord.botarmy.rocks
+ 2) Support us on Patreon: http://patreon.botarmy.rocks
+ 3) Check out our website: http://botarmy.rocks
+ 4) Check the docs: http://docs.botarmy.rocks
 
 # **Commands**
 
-Type commands.help for the list of commands.
+Type .help for the list full list of features.
 
 
 **That's it! You're pretty much done! If you face any problems then join our discord!**
