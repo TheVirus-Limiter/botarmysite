@@ -3,12 +3,12 @@
 
 
 THIS LICENSE AGREEMENT (this “Agreement”) is made and entered into effective as of the day of August 29, 2020 (the “Effective Date”), by and
-between BotArmy Development Team and by REHAN RAJ (the
+between BotArmy Development Team and by INVISIBLE GAMING (the
 “Licensors”), and BotArmy Development Team, Aspire Pvt Ltd, (the “License”).
 RECITALS:
 (A) Licensor owns all proprietary rights in and to numerous copyrightable
 works, generally described as fantasy architecture designs and products, all of which are
-displayed and viewable at http://botarmy.ml, or upon
+displayed and viewable at http://botarmy.tk, or upon
 request from Licensor, (hereinafter the “Work”), and has the exclusive right to license
 others to produce, copy, make, or sell the Work.
 (B) Licensor owns all rights in and to the Work and retains all rights to the Work
